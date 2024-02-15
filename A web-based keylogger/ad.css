@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+body {
+    margin: 0;
+    background-image: url(back7.jpg);
+    background-size: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+
+    
+}
+.quotes{
+    font-size: 150%;
+}
+.link{
+    font-size: 200%;
+    text-align: center;
+}

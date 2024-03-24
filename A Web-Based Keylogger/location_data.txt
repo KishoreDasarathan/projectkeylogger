@@ -1,0 +1,3 @@
+Latitude: 12.8313, Longitude: 79.48
+Latitude: 12.8313, Longitude: 79.48
+Latitude: 13.0826802, Longitude: 80.2707184

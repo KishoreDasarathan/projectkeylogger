@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
     $('#getLocationBtn').click(function() {
         // Check if geolocation is supported

